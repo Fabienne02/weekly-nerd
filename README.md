@@ -3,7 +3,7 @@ De eerste 3 maanden van de Minor Web zijn er inspirerende sprekers langs geweest
 De laatste maand zijn we bij 4 bedrijven langs geweest om insights te krijgen over hun werkwijze, projecten en code. Hiervan heb ik de meest leerzame bezoeken verwerkt in een artikel.
 
 ## Weekelijkse aantekeningen - Weekly Nerd
-Hierbij de weekelijkse genoteerde notities van de weekle nerd. Helaas heb ik twee sprekers gemist vanwege ziekte. 
+Hierbij de weekelijkse genoteerde notities van de weekle nerd. Helaas heb ik twee sprekers gemist vanwege ziekte. <br><br> 
 [Weekly Nerd aantekeningen](https://docs.google.com/document/d/1RU56MhZNsrkeDar-fLPczunVpDIFrrlYvt2_ni0MPe4/edit?usp=sharing)
 
 ## Artikelen 
