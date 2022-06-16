@@ -7,7 +7,7 @@ Hierbij de weekelijkse genoteerde notities van de weekle nerd. Helaas heb ik twe
 [Weekly Nerd aantekeningen](https://docs.google.com/document/d/1RU56MhZNsrkeDar-fLPczunVpDIFrrlYvt2_ni0MPe4/edit?usp=sharing)
 
 ## Artikelen 
-* (Accesiblity is for everyone)[https://medium.com/@favdsteen/accessibility-is-for-everyone-b0afdb14295]
-* (Typescript explained by a dummie)[https://medium.com/@favdsteen/typescript-explained-by-a-dummy-e76c5ef0be43]
+* Accesiblity is for everyone: https://medium.com/@favdsteen/accessibility-is-for-everyone-b0afdb14295
+* Typescript explained by a dummie: https://medium.com/@favdsteen/typescript-explained-by-a-dummy-e76c5ef0be43
 
 
