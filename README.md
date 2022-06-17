@@ -9,5 +9,6 @@ Hierbij de weekelijkse genoteerde notities van de weekle nerd. Helaas heb ik twe
 ## Artikelen 
 * Accesiblity is for everyone: https://medium.com/@favdsteen/accessibility-is-for-everyone-b0afdb14295
 * Typescript explained by a dummie: https://medium.com/@favdsteen/typescript-explained-by-a-dummy-e76c5ef0be43
+* Desingers vs menu's: https://medium.com/@favdsteen/designers-vs-menus-85ff7411508f
 
 
