@@ -1,5 +1,5 @@
 # Weekly nerd + Mingle 
-De eerste 3 maanden van de Minor Web zijn er inspirerende sprekers langs geweest om een talk te geven over hun skills en of werk. Hiervan heb ik aantekeningen gemaakt en verzamelend in een document die te lezen is in deze read.me. Hieruit heb ik de meest interessante en leerzame sorekers verwerkt in artikelen. <br><br>
+De eerste 3 maanden van de Minor Web zijn er inspirerende sprekers langs geweest om een talk te geven over hun skills en of werk. Hiervan heb ik aantekeningen gemaakt en verzamelend in een document die te lezen is in deze read.me. Hieruit heb ik de meest interessante en leerzame sprekers verwerkt in artikelen. <br><br>
 De laatste maand zijn we bij 4 bedrijven langs geweest om insights te krijgen over hun werkwijze, projecten en code. Hiervan heb ik de meest leerzame bezoeken verwerkt in een artikel.
 
 ## Weekelijkse aantekeningen - Weekly Nerd
