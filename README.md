@@ -12,6 +12,6 @@ Hierbij de weekelijkse genoteerde notities van de weekle nerd. Helaas heb ik twe
 * Desingers vs menu's: https://medium.com/@favdsteen/designers-vs-menus-85ff7411508f
 
 ## Weekly mingle - Aantekingen 
-https://docs.google.com/document/d/1oU9CnQIYIca0_JXIsOn-bGB-8PA45b7f7xV8EWt0KWw/edit?usp=sharing
+[Weekly mingle aantekeningen](https://docs.google.com/document/d/1oU9CnQIYIca0_JXIsOn-bGB-8PA45b7f7xV8EWt0KWw/edit?usp=sharing)
 
 
